@@ -2,4 +2,4 @@
 Codelabs for Android Developer Fundamentals <br>
 link youtube:	
 1. https://youtu.be/_ui1nSHDhho
-2. https://youtu.be/VKdkqf0MYeo
+2. https://youtu.be/VKdkqf0MYeo (TEST ANDROID)
